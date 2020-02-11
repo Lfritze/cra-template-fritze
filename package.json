@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-fritze",
+  "version": "1.0.0",
+  "description": "my template",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lfritze/cra-template-fritze.git"
+  },
+  "author": "Leighton Fritze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lfritze/cra-template-fritze/issues"
+  },
+  "homepage": "https://github.com/Lfritze/cra-template-fritze#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
